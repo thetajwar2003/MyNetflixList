@@ -1,0 +1,15 @@
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/bin/Debug/net5.0/NetflixContextLib.deps.json
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/bin/Debug/net5.0/NetflixContextLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/bin/Debug/net5.0/ref/NetflixContextLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/bin/Debug/net5.0/NetflixContextLib.pdb
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/bin/Debug/net5.0/NetflixEntitiesLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/bin/Debug/net5.0/NetflixEntitiesLib.pdb
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/NetflixContextLib.csprojAssemblyReference.cache
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/NetflixContextLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/NetflixContextLib.AssemblyInfoInputs.cache
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/NetflixContextLib.AssemblyInfo.cs
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/NetflixContextLib.csproj.CoreCompileInputs.cache
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/NetflixContextLib.csproj.CopyComplete
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/NetflixContextLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/ref/NetflixContextLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/Debug/net5.0/NetflixContextLib.pdb

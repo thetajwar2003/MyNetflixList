@@ -1,0 +1,33 @@
+﻿@model NetflixMvc.Models.HomeIndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<img class="d-block w-100" src= "https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.png" />
+<div class="row">
+<div class="col-md-12">
+<p class="lead">
+We have @Model.VisitorCount shows in total.
+</p>
+<form asp-action="SearchShow" method="get">
+ <input name="title" 
+ placeholder="Enter a show title" />
+ <input type="submit" />
+</form>
+<h2>Shows</h2>
+<div id="newspaper">
+<ul>
+@foreach (var item in @Model.Shows)
+                {
+        <li>
+        <a asp-controller="Home" 
+        asp-action="ShowDetail" 
+        asp-route-show_title="@item.title">
+        @item.title
+        </a>
+        </li>
+                }
+</ul>
+</div>
+</div>
+</div>

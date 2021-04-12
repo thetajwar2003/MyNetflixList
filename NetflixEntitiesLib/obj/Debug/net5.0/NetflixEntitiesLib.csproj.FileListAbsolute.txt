@@ -1,0 +1,12 @@
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/bin/Debug/net5.0/NetflixEntitiesLib.deps.json
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/bin/Debug/net5.0/NetflixEntitiesLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/bin/Debug/net5.0/ref/NetflixEntitiesLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/bin/Debug/net5.0/NetflixEntitiesLib.pdb
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/Debug/net5.0/NetflixEntitiesLib.csprojAssemblyReference.cache
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/Debug/net5.0/NetflixEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/Debug/net5.0/NetflixEntitiesLib.AssemblyInfoInputs.cache
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/Debug/net5.0/NetflixEntitiesLib.AssemblyInfo.cs
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/Debug/net5.0/NetflixEntitiesLib.csproj.CoreCompileInputs.cache
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/Debug/net5.0/NetflixEntitiesLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/Debug/net5.0/ref/NetflixEntitiesLib.dll
+/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/Debug/net5.0/NetflixEntitiesLib.pdb

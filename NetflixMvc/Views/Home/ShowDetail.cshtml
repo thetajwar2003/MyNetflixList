@@ -1,0 +1,31 @@
+@model Packt.Shared.Shows
+@{
+    ViewData["Title"] = "Show Detail - " + Model.title;
+}
+<h2>@Model.title</h2>
+<hr />
+<div>
+ <dl class="dl-horizontal">
+ <dt>Director</dt>
+ @if (@Model.director == null)
+        { 
+                                    <dd>@Model.director</dd>
+        }
+        else
+        {
+                        <dd>Unkown</dd>
+        }
+ <dt>Catgory</dt>
+ <dd>@Model.listed_in</dd>
+ <dt>Duration</dt>
+ <dd>@Model.duration</dd>
+ <dt>Description</dt>
+ <dd>@Model.description</dd>
+ <dt>Rating</dt>
+ <dd>
+     <a asp-controller="Home" 
+    asp-action="ModelBinding" 
+    asp-route-show_title="@Model.title">Click here to rate the show/movie</a>
+ </dd>
+ </dl>
+</div>

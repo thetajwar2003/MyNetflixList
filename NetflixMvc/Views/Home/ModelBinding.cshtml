@@ -1,0 +1,24 @@
+@model NetflixMvc.Models.Rating
+
+<h1>Ratings</h1>
+<div>
+ Enter your rating of the show here:
+</div>
+<form method="POST" action="/home/modelbinding?id=3">
+ <input name="stars" />
+ <input name="review" />
+ <input type="submit" />
+</form>
+@if (Model != null)
+{
+        <h2>Submitted Rating</h2>
+        <hr />
+        <div>
+    <dl class="dl-horizontal">
+    <dt>Review</dt>
+    <dd>@Model.Stars</dd>
+    <dt>Model Rating</dt>
+    <dd>@Model.Review</dd>
+    </dl>
+    </div>
+}

@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/Web/Web.csproj": {}
+  },
+  "projects": {
+    "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/NetflixContextLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/NetflixContextLib.csproj",
+        "projectName": "NetflixContextLib",
+        "projectPath": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/NetflixContextLib.csproj",
+        "packagesPath": "/Users/sab0taj/.nuget/packages/",
+        "outputPath": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sab0taj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/NetflixEntitiesLib.csproj": {
+                "projectPath": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/NetflixEntitiesLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/NetflixEntitiesLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/NetflixEntitiesLib.csproj",
+        "projectName": "NetflixEntitiesLib",
+        "projectPath": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/NetflixEntitiesLib.csproj",
+        "packagesPath": "/Users/sab0taj/.nuget/packages/",
+        "outputPath": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixEntitiesLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sab0taj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/Web/Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/Web/Web.csproj",
+        "projectName": "Web",
+        "projectPath": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/Web/Web.csproj",
+        "packagesPath": "/Users/sab0taj/.nuget/packages/",
+        "outputPath": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sab0taj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/NetflixContextLib.csproj": {
+                "projectPath": "/Users/sab0taj/Desktop/AppDev/C# Workspace/FinalProj/NetflixContextLib/NetflixContextLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
