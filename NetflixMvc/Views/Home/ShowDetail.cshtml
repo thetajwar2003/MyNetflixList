@@ -9,11 +9,11 @@
  <dt>Director</dt>
  @if (@Model.director == null)
         { 
-                                    <dd>@Model.director</dd>
+        <dd>@Model.director</dd>
         }
         else
         {
-                        <dd>Unkown</dd>
+        <dd>Unkown</dd>
         }
  <dt>Catgory</dt>
  <dd>@Model.listed_in</dd>
@@ -27,5 +27,9 @@
     asp-action="ModelBinding" 
     asp-route-show_title="@Model.title">Click here to rate the show/movie</a>
  </dd>
+<dt>List of trailers</dt>
+<dd>
+    <a href="https://youtube.com/results?search_query={Model.title}+trailer" target="_blank">Trailers</a>
+</dd>
  </dl>
 </div>
